@@ -21,3 +21,8 @@ Three models were compared across each other for performance and then evaluated 
 
 ### Performance Evaluation:
 <img width="674" alt="image" src="https://user-images.githubusercontent.com/60126568/233812169-97241755-fd79-4d4b-9303-fc19292d526b.png">
+
+### Reference / Source: 
+https://huggingface.co/nlptown/bert-base-multilingual-uncased-sentiment,
+https://huggingface.co/monsoon-nlp/hindi-tpu-electra
+https://huggingface.co/AshiNLP/Hindi-RoBERTa/tree/main
